@@ -1,7 +1,7 @@
 # DonorGenotypeFree
 R Script for donor geneotype free analysis of donor fraction for SOT recipients
 
-[![DOI](https://zenodo.org/badge/267396914.svg)](https://zenodo.org/badge/latestdoi/267396914)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3865832.svg)](https://doi.org/10.5281/zenodo.3865832)
 
 This script was developed for the following article:
 
